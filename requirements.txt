@@ -1,0 +1,7 @@
+Flask==2.2.2
+gunicorn
+openai
+langchain
+python-dotenv==0.20.0
+heyoo==0.0.4
+requests
